@@ -8,17 +8,30 @@ A living list of important industry innovators in the Robotics and AI space
    * Deep Learning/AI
    * Computer Vision
    * Simulated Robotic Control
+ * Microsoft (Locations: Palo Alto, Redmond, Seattle)
+   * Microsoft Research
+     * Deep Learning/AI
+     * Computer Vision
  * Facebook (Locations: Menlo Park)
-   * FAIR
+   * FAIR   
  * Google
-   * Google Research (Locations: Mountain View)
-     * AI
    * Google X (Locations: Mountain View, Undisclosed)
      * Drone technology
      * Autonomous Driving
      * General Robotics
    * Google Brain (Locations: Mountain View, New York)
      * Deep Learning/AI
+   * Deepmind
+     * Deep Learning/AI
+ * Honda
+   * Honda Research Institute
+     * General Robotics
+     * Autonomous Driving
+ * Toyota
+   * Toyota Research Institute
+     * General Robotics
+     * Autonomous Driving
+
 
 
 ## American Startups
