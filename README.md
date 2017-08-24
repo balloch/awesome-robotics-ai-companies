@@ -31,6 +31,18 @@ A living list of important industry innovators in the Robotics and AI space
    * Toyota Research Institute
      * General Robotics
      * Autonomous Driving
+ * Amazon 
+   * Amazon Robotics
+     * Warehouse and Fulfillment Automation
+     * Manipulation
+     * Drone Technology-Delivery
+ * Softbank
+   * Softbank Robotics
+     * General Robotics
+     * HRI and Assistive Robotics
+     
+     
+     
 
 ## American Startups
  * [Fetch Robotics](https://www.themuse.com/jobs/c-fetchrobotics-jobs) (Locations: Santa Jose)
