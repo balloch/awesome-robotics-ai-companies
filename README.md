@@ -36,6 +36,8 @@ A living list of important industry innovators in the Robotics and AI space
      * Warehouse and Fulfillment Automation
      * Manipulation
      * Drone Technology-Delivery
+   * AWS Deep Learning
+     * Deep Learning/AI
  * Softbank
    * Softbank Robotics
      * General Robotics
