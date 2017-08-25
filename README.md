@@ -43,8 +43,6 @@ A living list of important industry innovators in the Robotics and AI space
      * General Robotics
      * HRI and Assistive Robotics
      
-     
-     
 
 ## American Startups
  * [Fetch Robotics](https://www.themuse.com/jobs/c-fetchrobotics-jobs) (Locations: Santa Jose)
@@ -52,12 +50,15 @@ A living list of important industry innovators in the Robotics and AI space
    * Warehouse robotics
  * [Mayfield Robotics](http://www.mayfieldrobotics.com/jobs/) (Locations: Redwood City)
    * Personal and interactive robotics
+ * [Zenuity](https://www.zenuity.com/)
+   * Autonomous driving
+
 
 ## International Startups
  * [Rapyuta Robotics](https://www.rapyuta-robotics.com/careers) (Locations: Tokyo, Zurich, Bangalore)
    * Drone technology
    * Cloud robotics
- 
+
 
 ## Governments
  * USA
