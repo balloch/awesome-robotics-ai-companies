@@ -58,6 +58,8 @@ A living list of important industry innovators in the Robotics and AI space
  * [Rapyuta Robotics](https://www.rapyuta-robotics.com/careers) (Locations: Tokyo, Zurich, Bangalore)
    * Drone technology
    * Cloud robotics
+ * [FiveAI](http://www.five.ai/)
+   * Autonomous Driving
 
 
 ## Governments
