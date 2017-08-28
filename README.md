@@ -42,6 +42,10 @@ A living list of important industry innovators in the Robotics and AI space
    * Softbank Robotics
      * General Robotics
      * HRI and Assistive Robotics
+ * Dyson 
+   * SLAM/Localisation
+   * Computer Vision (image processing, object detection/recognition)
+   * Machine learning/AI
      
 
 ## American Startups
