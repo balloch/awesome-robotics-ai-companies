@@ -48,7 +48,7 @@ A living list of important industry innovators in the Robotics and AI space
    * Machine learning/AI
      
 
-## American Startups
+## American Startups and new labs
  * [Fetch Robotics](https://www.themuse.com/jobs/c-fetchrobotics-jobs) (Locations: Santa Jose)
    * General robotics
    * Warehouse robotics
@@ -56,6 +56,17 @@ A living list of important industry innovators in the Robotics and AI space
    * Personal and interactive robotics
  * [Zenuity](https://www.zenuity.com/)
    * Autonomous driving
+ * OpenAI
+   * Autonomous Driving
+   * Deep Learning/General AI
+   * Deep Reinforcement Learning
+   * Machine Learning Theory
+   * Computer Vision
+ * [Allen Institute for Artificial Intelligence](http://allenai.org/) ([nternships](https://www.glassdoor.com/job-listing/internships-allen-institute-for-artificial-intelligence-JV_IC1150505_KO0,11_KE12,55.htm?jl=1854543460))
+   * Natural language processing/semantics/question answering
+   * Machine learning theory
+   * Knowledge representation
+   * Computer vision
 
 
 ## International Startups
