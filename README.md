@@ -64,7 +64,7 @@ A living list of important industry innovators in the Robotics and AI space
    * Drones
    * Computer vision     
 
-## American Startups and new labs
+## American Startups
  * [Fetch Robotics](https://www.themuse.com/jobs/c-fetchrobotics-jobs) (Locations: Santa Jose)
    * General robotics
    * Warehouse robotics
@@ -78,6 +78,10 @@ A living list of important industry innovators in the Robotics and AI space
    * Manipulation
    * Industrial Robotics 
    * Personal and interactive robotics
+ * Clarifai
+   * Video/Image recognition
+ * [Deepscale AI](http://deepscale.ai/jobs/)
+   * Autonomous Driving
    
 ## Non-Profits and Research Labs
  * OpenAI
