@@ -1,6 +1,9 @@
 A living list of important industry innovators in the Robotics and AI space 
 
 ## Major Companies
+ * Boston Dynamics
+   * Advanced robot Mechanics
+   * Controls
  * [Qualcomm](https://www.qualcomm.com/company/careers)
    * Autonomous Driving (Locations: Philadelphia, San Diego)
    * Drone technology (Locations: Philadelphia)
@@ -46,7 +49,20 @@ A living list of important industry innovators in the Robotics and AI space
    * SLAM/Localisation
    * Computer Vision (image processing, object detection/recognition)
    * Machine learning/AI
-     
+ * Aldebaran Robotics 
+   * Humanoid robotics (NAO)
+   * Assistive Robotics (Pepper)
+ * iRobot
+   * Household robotics (Roomba)
+ * ABB Robotics
+   * Manipulation
+   * Industrial Robotics
+ * FANUC 
+   * Manipulation
+   * Industrial robotics
+ * DJI 
+   * Drones
+   * Computer vision     
 
 ## American Startups and new labs
  * [Fetch Robotics](https://www.themuse.com/jobs/c-fetchrobotics-jobs) (Locations: Santa Jose)
@@ -56,6 +72,14 @@ A living list of important industry innovators in the Robotics and AI space
    * Personal and interactive robotics
  * [Zenuity](https://www.zenuity.com/)
    * Autonomous driving
+ * AutoX
+   * Autonomous driving
+ * Rethink Robotics
+   * Manipulation
+   * Industrial Robotics 
+   * Personal and interactive robotics
+   
+## Non-Profits and Research Labs
  * OpenAI
    * Autonomous Driving
    * Deep Learning/General AI
@@ -67,8 +91,7 @@ A living list of important industry innovators in the Robotics and AI space
    * Machine learning theory
    * Knowledge representation
    * Computer vision
-
-
+   
 ## International Startups
  * [Rapyuta Robotics](https://www.rapyuta-robotics.com/careers) (Locations: Tokyo, Zurich, Bangalore)
    * Drone technology
