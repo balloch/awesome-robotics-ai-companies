@@ -49,9 +49,6 @@ A living list of important industry innovators in the Robotics and AI space
    * SLAM/Localisation
    * Computer Vision (image processing, object detection/recognition)
    * Machine learning/AI
- * Aldebaran Robotics 
-   * Humanoid robotics (NAO)
-   * Assistive Robotics (Pepper)
  * iRobot
    * Household robotics (Roomba)
  * ABB Robotics
