@@ -82,6 +82,14 @@ A living list of important industry innovators in the Robotics and AI space
    * Video/Image recognition
  * [Deepscale AI](http://deepscale.ai/jobs/)
    * Autonomous Driving
+ * Embodied AI
+   * Robotics
+   * Computer Vision
+   * Machine Learning Methods
+     * Reinforcement Learning
+     * Inverse Reinforcement Learning
+ * Iris AI
+   * Machine Learning and AI methods for scientific research
    
 ## Non-Profits and Research Labs
  * OpenAI
@@ -102,7 +110,6 @@ A living list of important industry innovators in the Robotics and AI space
    * Cloud robotics
  * [FiveAI](http://www.five.ai/)
    * Autonomous Driving
-
 
 ## Governments
  * USA
