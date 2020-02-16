@@ -8,6 +8,21 @@ NOTE: A lot of companies are saying that they have "AI" at this point. The compa
 
 _All locations listed are primary locations for engineering development, so the locations lists will be representative but are not guaranteed to be complete._
 
+   * [Awesome Robotics and Intelligent Agent Companies <a href="https://awesome.re" rel="nofollow"><img src="https://camo.githubusercontent.com/1997c7e760b163a61aba3a2c98f21be8c524be29/68747470733a2f2f617765736f6d652e72652f62616467652e737667" alt="Awesome" data-canonical-src="https://awesome.re/badge.svg" style="max-width:100\x;"></a>](#awesome-robotics-and-intelligent-agent-companies-)
+      * [Large Companies](#large-companies)
+      * [Stable Start-ups](#stable-start-ups)
+         * [North American Startups (by locale):](#north-american-startups-by-locale)
+            * [Boston:](#boston)
+            * [San Francisco Bay Area:](#san-francisco-bay-area)
+            * [Boulder Area](#boulder-area)
+            * [Pittsburgh Area](#pittsburgh-area)
+            * [Austin Area](#austin-area)
+            * [New York:](#new-york)
+            * [Other](#other)
+         * [International Startups](#international-startups)
+      * [Non-Profits and Government Research Labs](#non-profits-and-government-research-labs)
+      * [Credits](#credits)
+
 ## Large Companies
  * [Qualcomm](https://www.qualcomm.com/company/careers)
    * Autonomous Driving (Locations: Philadelphia, USA; San Diego, USA)
