@@ -1,4 +1,6 @@
-# awesome-robotics-ai-companies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Robotics and Intelligent Agent Companies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A List of Companies, Both Large and Small, That Are Stable and Developing Robots or Autonomous Intelligent Agents  
 
 Robotics is awesome, and people who think robotics is awesome are awesome, so I have a decided to put together a living list of important industry innovators in robotics and artificially intelligent agents. This is updated somewhat infrequently but is mostly accurate, and intended to be a starting point for people who want to developing careers in this space. If you want your/some other company added to this list, or think something needs to be adjusted, please a pull request (obviously adhering to the contributing guidelines)!
 
@@ -306,3 +308,10 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Knowledge representation
    * Computer vision
  * [AFRL](https://teamafrl.afciviliancareers.com/opportunities)
+
+
+## Credits
+Designed in accordance with Sindre's [awesome](https://github.com/sindresorhus/awesome) superlist. Thanks Sindre!
+TOC from @ekalinin 's [Easy TOC for Github README](https://github.com/ekalinin/github-markdown-toc). Thanks Eugene!
+
+And thank you to all of the contributers on and off Github (mostly off at this point). Couldn't do it without you.
