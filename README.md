@@ -11,13 +11,13 @@ _All locations listed are primary locations for engineering development, so the 
    * [Awesome Robotics and Intelligent Agent Companies <a href="https://awesome.re" rel="nofollow"><img src="https://camo.githubusercontent.com/1997c7e760b163a61aba3a2c98f21be8c524be29/68747470733a2f2f617765736f6d652e72652f62616467652e737667" alt="Awesome" data-canonical-src="https://awesome.re/badge.svg" style="max-width:100\x;"></a>](#awesome-robotics-and-intelligent-agent-companies-)
       * [Large Companies](#large-companies)
       * [Stable Start-ups](#stable-start-ups)
-         * [North American Startups (by locale):](#north-american-startups-by-locale)
-            * [Boston:](#boston)
-            * [San Francisco Bay Area:](#san-francisco-bay-area)
+         * [North American Startups (by locale)](#north-american-startups-by-locale)
+            * [Boston](#boston)
+            * [San Francisco Bay Area](#san-francisco-bay-area)
             * [Boulder Area](#boulder-area)
             * [Pittsburgh Area](#pittsburgh-area)
             * [Austin Area](#austin-area)
-            * [New York:](#new-york)
+            * [New York](#new-york)
             * [Other](#other)
          * [International Startups](#international-startups)
       * [Non-Profits and Government Research Labs](#non-profits-and-government-research-labs)
@@ -135,12 +135,16 @@ _All locations listed are primary locations for engineering development, so the 
    * Manipulation
    * Robot mechanics and design
    * Industrial robotics
+ * [Cruise](http://getcruise.com/) (San Francisco, USA)
+   * Autonomous driving
+ * [Zoox](https://www.zoox.com/) (Location: Foster City, USA)
+   * Autonomous driving
 
 ## Stable Start-ups
 This list contains what I am calling start-ups, which is any company that isn't public, has a valuation at <$500M, has only a single primary location, and/or does not have a revenue stream that could result in stable profitability. "Stable" doesn't mean they cannot fail, but this list will not be used to keep track of every single effort as that would be exhuasting. If you want something like that, may I suggest [CrunchBase](www.crunchbase.com) and [Robotics Business Review](https://www.roboticsbusinessreview.com/).
 
-### North American Startups (by locale):
-#### Boston:
+### North American Startups (by locale)
+#### Boston
  * [Boston Dynamics](https://www.bostondynamics.com/)
    * Advanced Robot Mechanics
    * Robot control
@@ -176,7 +180,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [Ava Robotics](https://www.avarobotics.com/)
    * Telepresence
  
-#### San Francisco Bay Area:
+#### San Francisco Bay Area
  * [Nuro](https://www.nuro.ai)
    * Autonomous driving
    * Autonomous delivery
@@ -206,6 +210,8 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Parent company: JohLos Angelesn Deere
  * [Neato Robotics](http://neatorobotics.com)
    * Robot vacuums
+ * [Skydio](http://www.skydio.com/)
+   * Autonomous drones
  * [Iron Ox](http://ironox.com/)
    * Agriculture robotics
  * [Liquid Robotics](http://liquid-robotics.com/)
@@ -263,7 +269,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Healthcare robotics
    * Personal robot assistants
    
-#### New York:
+#### New York
  * [Clarifai](https://www.clarifai.com/)
    * Video/Image recognition
    * Enterprise visual decision making
@@ -308,7 +314,8 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Materials handling robotics
    * Warehouse and fulfillment robobtics
    * Alt Locations: (Atlanta, USA; Brisbane, AU)
-   
+ * [Wayve](https://wayve.ai/) (Location: Cambridge, UK)
+   * Autonomous driving
 
 ## Non-Profits and Government Research Labs
  * [OpenAI](https://openai.com/)
