@@ -211,7 +211,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [Left Hand Robotics](https://lefthandrobotics.com/)
    * Outdoor robotics
    * Agriculture Robotics
- * (AMP Robotics](https://www.amprobotics.com/)
+ * [AMP Robotics](https://www.amprobotics.com/)
    * Intelligent autonomous recycling
    * Industrial robotics
  * [Sphero](https://www.sphero.com/)/[Misty Robotics](https://www.mistyrobotics.com/)
