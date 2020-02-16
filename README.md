@@ -111,7 +111,9 @@ All locations listed are primary locations for engineering development, so the l
    * Uber AI (Location: Palo Alto)
      * Robotics research
      * Reinforcement learning
- 
+ * [Aptiv](http://www.aptiv.com/) (Locations: Boston, USA; Pittsburgh, USA; Krakow, PL; Kokomo, USA; Seoul, SK)
+   * Autonomous driving
+   * Sensor systems for autonomous vehicles
  * [Universal Robots](https://www.universal-robots.com/) (Locations: Odense, DK; Boston, MA; Tokyo, JP)
    * Manipulation
    * Robot mechanics and design
@@ -158,6 +160,9 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Telepresence
  
 ### San Francisco Bay Area:
+ * [Nuro](https://www.nuro.ai)
+   * Autonomous driving
+   * Autonomous delivery
  * [Fetch Robotics](https://www.themuse.com/jobs/c-fetchrobotics-jobs) (Locations: Santa Jose)
    * Retail robotics
    * Warehouse robotics
@@ -219,6 +224,9 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Robot companions
  * [Valyant AI](https://valyant.ai/)
    * Intelligent disembodied agents
+ * [Berkshire Grey](https://www.berkshiregrey.com/)
+   * Manipulation
+   * Warehouse and fulfillment robotics
    
 ### Pittsburgh Area
  * [Bossa Nova Robotics](http://www.bossanova.com/)
