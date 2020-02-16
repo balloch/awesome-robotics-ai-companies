@@ -1,12 +1,12 @@
-A living list of important industry innovators in robotics and artificially intelligent agents. This is updated somewhat infrequently but is mostly accurate, and intended to be a starting point for people who want to developing careers in this space. 
+# awesome-robotics-ai-companies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-If you want your/some other company added to this list, or think something needs to be adjusted, message me on github or just send me a pull request!
+Robotics is awesome, and people who think robotics is awesome are awesome, so I have a decided to put together a living list of important industry innovators in robotics and artificially intelligent agents. This is updated somewhat infrequently but is mostly accurate, and intended to be a starting point for people who want to developing careers in this space. If you want your/some other company added to this list, or think something needs to be adjusted, please a pull request (obviously adhering to the contributing guidelines)!
 
 NOTE: A lot of companies are saying that they have "AI" at this point. The companies on this list are restricted to what could be called "AI agency", that is, specifically, using artificial intelligence to enable autonomous agents that make their own decisions. This is not to be confused with the umbrella term "AI" being used today which includes generic machine learning, data analysis, and data visionalization, as these are all areas that enable _human_ decision makers. Occasionally I will throw in a computer vision focused company because of the degree to which the technology transfers.
 
-All locations listed are primary locations for engineering development, so the locations lists will be representative but are not guaranteed to be complete.
+_All locations listed are primary locations for engineering development, so the locations lists will be representative but are not guaranteed to be complete._
 
-# Large Companies
+## Large Companies
  * [Qualcomm](https://www.qualcomm.com/company/careers)
    * Autonomous Driving (Locations: Philadelphia, USA; San Diego, USA)
    * Drone technology (Locations: Philadelphia, USA)
@@ -119,11 +119,11 @@ All locations listed are primary locations for engineering development, so the l
    * Robot mechanics and design
    * Industrial robotics
 
-# Stable Start-ups
+## Stable Start-ups
 This list contains what I am calling start-ups, which is any company that isn't public, has a valuation at <$500M, has only a single primary location, and/or does not have a revenue stream that could result in stable profitability. "Stable" doesn't mean they cannot fail, but this list will not be used to keep track of every single effort as that would be exhuasting. If you want something like that, may I suggest [CrunchBase](www.crunchbase.com) and [Robotics Business Review](https://www.roboticsbusinessreview.com/).
 
-## North American Startups (by locale):
-### Boston:
+### North American Startups (by locale):
+#### Boston:
  * [Boston Dynamics](https://www.bostondynamics.com/)
    * Advanced Robot Mechanics
    * Robot control
@@ -159,7 +159,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [Ava Robotics](https://www.avarobotics.com/)
    * Telepresence
  
-### San Francisco Bay Area:
+#### San Francisco Bay Area:
  * [Nuro](https://www.nuro.ai)
    * Autonomous driving
    * Autonomous delivery
@@ -212,7 +212,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [Starship Technologies](https://www.starship.xyz/)
    * Autonomous driving and delivery
 
-### Boulder Area
+#### Boulder Area
  * [Left Hand Robotics](https://lefthandrobotics.com/)
    * Outdoor robotics
    * Agriculture Robotics
@@ -228,7 +228,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Manipulation
    * Warehouse and fulfillment robotics
    
-### Pittsburgh Area
+#### Pittsburgh Area
  * [Bossa Nova Robotics](http://www.bossanova.com/)
    * Retail robotics
    * Manipulation
@@ -241,18 +241,18 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Research robotics
    * Manipulation
 
-### Austin Area
+#### Austin Area
  * [Diligent Robotics](http://diligentrobots.com/)
    * Healthcare robotics
    * Personal robot assistants
    
-### New York:
+#### New York:
  * [Clarifai](https://www.clarifai.com/)
    * Video/Image recognition
    * Enterprise visual decision making
    * Alt locations: San Francisco, USA; Washington D.C., USA 
 
-### Other
+#### Other
  * [Autonomous Solutions](http://www.asirobots.com/) (Location: Petersboro, UT, USA)
    * Mining robotics
    * Industrial robotics
@@ -271,7 +271,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Robotic control
    * User Interfaces
 
-## International Startups
+### International Startups
  * [MIR](https://www.mobile-industrial-robots.com/) (Locations: Odense, DK; New York, USA)
    * Warehouse and fulfillment robotics
  * [Rapyuta Robotics](https://www.rapyuta-robotics.com/careers) (Locations: Tokyo, JP; Zurich, CH; Bangalore, IN)
@@ -293,7 +293,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Alt Locations: (Atlanta, USA; Brisbane, AU)
    
 
-# Non-Profits and Government Research Labs
+## Non-Profits and Government Research Labs
  * [OpenAI](https://openai.com/)
    * Autonomous Driving
    * Deep Learning/General AI
