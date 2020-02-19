@@ -26,15 +26,16 @@ _All locations listed are primary locations for engineering development, so the 
 ## Large Companies
  * [Qualcomm](https://www.qualcomm.com/company/careers)
    * Autonomous Driving (Locations: Philadelphia, USA; San Diego, USA)
-   * Drone technology (Locations: Philadelphia, USA)
+   * Autonomous Unmanned Aerial Vehicles (Locations: Philadelphia, USA)
  * [NVIDIA](https://www.nvidia.com) 
    * Deep Learning/AI (Locations: Santa Clara, USA; Seattle, USA)
    * Computer Vision
    * Simulated Robotic Control
+   * Manipulation
  * [Tesla](https://www.tesla.com)
-   * Autonomous Driving (Locations: Palo Alto, USA; Fremont, USA; McCarren, USA; St. Leonards, AU; Beijing, CN; Hong Kong, CN; Tokyo, JP)
+   * Autonomous Driving (Locations: Palo Alto, USA; Fremont, USA; McCarren, USA; St. Leonards, AUS; Beijing, CHN; Hong Kong, CHN; Tokyo, JPN)
  * [Microsoft](https://www.microsoft.com/) 
-   * Microsoft Research (Locations: Palo Alto, USA; Redmond, USA; Seattle, USA; Cambridge, USA; New York, USA; Montreal, CAN; Beijing, CP)
+   * Microsoft Research (Locations: Palo Alto, USA; Redmond, USA; Seattle, USA; Cambridge, USA; New York, USA; Montreal, CAN; Beijing, CHN)
      * Deep Learning/AI Research
      * Computer Vision
      * Robotics
@@ -51,14 +52,14 @@ _All locations listed are primary locations for engineering development, so the 
      * Intelligent virtual agents
  * [Alphabet](https://about.google) ([Company Outline](https://en.wikipedia.org/wiki/Outline_of_Google))
    * Google X (Locations: Mountain View, USA; Undisclosed)
-     * Drone technology
+     * Autonomous Unmanned Aerial Vehicles
      * Autonomous Driving
      * General Robotics
    * Google AI (Locations: Mountain View, USA; New York, USA; Cambridge, USA; Seattle, USA)
      * Deep Learning/AI Research
      * Reinforcement learning
      * Robotics
-   * Deepmind (Locations: Mountain View, USA; London, UK)
+   * Deepmind (Locations: Mountain View, USA; London, GBR)
      * Deep Learning/AI Research
    * Google Assistant (Locations: Mountain View, USA; New York, USA)
      * Intelligent disembodied agents
@@ -69,7 +70,7 @@ _All locations listed are primary locations for engineering development, so the 
      * General Robotics
      * Autonomous Driving
      * Intelligent virtual assistants
- * [Toyota](https://www.tri.global/) (Locations: Tokyo, JP; Los Altos, USA; Ann Arbor, USA; Cambridge, USA)
+ * [Toyota](https://www.tri.global/) (Locations: Tokyo, JPN; Los Altos, USA; Ann Arbor, USA; Cambridge, USA)
    * Toyota Research Institute
      * General Robotics
      * Autonomous Driving
@@ -77,7 +78,7 @@ _All locations listed are primary locations for engineering development, so the 
    * Amazon Robotics (Locations: Westborough, USA; Seattle, USA)
      * Warehouse and Fulfillment Automation
      * Manipulation
-     * Drone Technology-Delivery
+     * Autonomous Unmanned Aerial Vehicles
    * Amazon Scout (Locations: Seattle, USA)
      * Autonomous driving and delivery
    * AWS (Locations: Seattle, USA)
@@ -85,10 +86,10 @@ _All locations listed are primary locations for engineering development, so the 
    * Alexa (Locations: Seattle, USA; New York, USA)
      * Intelligent disembodied agents
  * [Softbank](http://softbank.com/)
-   * Softbank Robotics (Tokyo, JP; Paris, FR)
+   * Softbank Robotics (Tokyo, JPN; Paris, FRA)
      * General Robotics
      * HRI and Assistive Robotics
- * [Dyson](http://dyson.com/) (Location: Malmesbury, UK; Singapore)
+ * [Dyson](http://dyson.com/) (Location: Malmesbury, GBR; Singapore)
    * Household cleaning robotics
    * SLAM/Localisation
    * Computer Vision (image processing, object detection/recognition)
@@ -99,16 +100,16 @@ _All locations listed are primary locations for engineering development, so the 
    * SLAM/Localisation
    * Computer Vision (image processing, object detection/recognition)
    * Educational robotics
- * [Ecovacs](https://www.ecovacs.com/) (Location: Suzhou, CN)
+ * [Ecovacs](https://www.ecovacs.com/) (Location: Suzhou, CHN)
    * Household cleaning robotics
- * [ABB Robotics](https://new.abb.com/products/robotics) (Location: Zurich, CH)
+ * [ABB Robotics](https://new.abb.com/products/robotics) (Location: Zurich, CHE)
    * Manipulation
    * Industrial Robotics
- * [FANUC](https://www.fanucamerica.com/) (Location: Oshino, JP)
+ * [FANUC](https://www.fanucamerica.com/) (Location: Oshino, JPN)
    * Manipulation
    * Industrial robotics
- * [DJI](http://www.dji.com/) (Locations: Shenzhen, CN; Los Angeles, USA)
-   * Drones
+ * [DJI](http://www.dji.com/) (Locations: Shenzhen, CHN; Los Angeles, USA)
+   * Autonomous Unmanned Aerial Vehicles
    * Smart cameras
    * Computer vision
  * [Apple](http://www.apple.com/) (Locations: Seattle, USA; Cupertino, USA)
@@ -116,8 +117,8 @@ _All locations listed are primary locations for engineering development, so the 
    * Computer vision
    * Autonomous Driving (Special Problems Group)
  * [Medtronic](http://medtronic.com/)
-   * Healthcare robotic devices (Locations: Frindley, USA; Dublin, IR)
-   * Robotic surgery (Locations: Caeserea, IL)
+   * Healthcare robotic devices (Locations: Frindley, USA; Dublin, IRL)
+   * Robotic surgery (Locations: Caeserea, ISR)
  * [Intuitive Surgical](https://www.intuitive.com/)
    * Healthcare robotic devices (Locations: Sunnyvale, USA)
    * Robotic surgery (Locations: Sunnyvale, USA)
@@ -126,25 +127,25 @@ _All locations listed are primary locations for engineering development, so the 
    * Uber Advanced Technologies Group (Locations: Pittsburgh, USA; Toronto, CAN; Palo Alto, USA)
      * Autonomous driving
      * Computer Vision
-   * Uber AI (Locations: Palo Alto, USA; Toronto)
+   * Uber AI (Locations: Palo Alto, USA; Toronto, CAN)
      * Autonomous driving
      * Computer Vision
      * Robotics research
      * Reinforcement learning
- * [Aptiv](http://www.aptiv.com/) (Locations: Boston, USA; Pittsburgh, USA; Krakow, PL; Kokomo, USA; Seoul, SK)
+ * [Aptiv](http://www.aptiv.com/) (Locations: Boston, USA; Pittsburgh, USA; Krakow, POL; Kokomo, USA; Seoul, KOR)
    * Autonomous driving
    * Sensor systems for autonomous vehicles
- * [Universal Robots](https://www.universal-robots.com/) (Locations: Odense, DK; Boston, MA; Tokyo, JP)
+ * [Universal Robots](https://www.universal-robots.com/) (Locations: Odense, DNK; Boston, USA; Tokyo, JPN)
    * Manipulation
    * Robot mechanics and design
    * Industrial robotics
- * [Kuka](https://www.kuka.com/) (Locations: Augsburg, DE; Budapest, HU; Austin, USA; Detroit, USA)
+ * [Kuka](https://www.kuka.com/) (Locations: Augsburg, DEU; Budapest, HUN; Austin, USA; Detroit, USA)
    * Manipulation
    * Robot mechanics and design
    * Industrial robotics
    * Warehouse and fulfillment automation
    * Mobility and planning
- * [Swisslog](https://www.swisslog.com/) (Locations: Aarau, CH; Dortmund, DE; Denver, USA; San Francisco, USA)
+ * [Swisslog](https://www.swisslog.com/) (Locations: Aarau, CHE; Dortmund, DEU; Denver, USA; San Francisco, USA)
    * Warehouse and fulfillment automation
    * Healthcare automation
    * Parent company: Kuka
@@ -199,7 +200,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [Nuro](https://www.nuro.ai)
    * Autonomous driving
    * Autonomous delivery
- * [Fetch Robotics](https://www.themuse.com/jobs/c-fetchrobotics-jobs) (Locations: Santa Jose)
+ * [Fetch Robotics](https://fetchrobotics.com/)
    * Retail robotics
    * Warehouse robotics
    * Manipulation
@@ -207,7 +208,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Autonomous driving
  * [AutoX](autox.ai)
    * Autonomous driving
-   * Alt Location: Shenzhen, CN
+   * _Alt Location: Shenzhen, CHN_
  * [Deepscale AI](http://deepscale.ai/)
    * Autonomous Driving
  * [Double Robotics](http://www.doublerobotics.com/)
@@ -222,11 +223,11 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [Blue River Technology](http://www.bluerivertechnology.com/)
    * Agriculture Robotics
    * Outdoor robotics
-   * Parent company: JohLos Angelesn Deere
+   * Parent company: John Deere
  * [Neato Robotics](http://neatorobotics.com)
    * Robot vacuums
  * [Skydio](http://www.skydio.com/)
-   * Autonomous drones
+   * Autonomous Unmanned Aerial Vehicles
  * [Iron Ox](http://ironox.com/)
    * Agriculture robotics
  * [Liquid Robotics](http://liquid-robotics.com/)
@@ -241,12 +242,12 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Telepresence
  * [Orbital Insight](https://www.orbitalinsight.com)
    * Computer Vision
-   * Alt locations: Washington D.C., USA; Boston, USA
+   * _Alt locations: Washington D.C., USA; Boston, USA_
  * [Space Know](https://spaceknow.com/)
    * Computer Vision
  * [Aurora Technologies](https://aurora.tech/)
    * Autonomous driving
-   * Alt Locations: Pittsburgh, USA; Bozeman, USA
+   * _Alt Locations: Pittsburgh, USA; Bozeman, USA_
  * [Starship Technologies](https://www.starship.xyz/)
    * Autonomous driving and delivery
 
@@ -288,13 +289,13 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Human robot interaction
  * [Pensa Systems](https://www.pensasystems.com/)
    * Retail robotics
-   * Drones
+   * Autonomous Unmanned Aerial Vehicles
    
 #### New York
  * [Clarifai](https://www.clarifai.com/)
    * Video/Image recognition
    * Enterprise visual decision making
-   * Alt locations: San Francisco, USA; Washington D.C., USA 
+   * _Alt locations: San Francisco, USA; Washington D.C., USA_
 
 #### Other
  * [Autonomous Solutions](http://www.asirobots.com/) (Location: Petersboro, UT, USA)
@@ -316,26 +317,26 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * User Interfaces
 
 ### International Startups
- * [MIR](https://www.mobile-industrial-robots.com/) (Locations: Odense, DK; New York, USA)
+ * [MIR](https://www.mobile-industrial-robots.com/) (Locations: Odense, DNK; New York, USA)
    * Warehouse and fulfillment robotics
- * [Rapyuta Robotics](https://www.rapyuta-robotics.com/careers) (Locations: Tokyo, JP; Zurich, CH; Bangalore, IN)
-   * Drone technology
+ * [Rapyuta Robotics](https://www.rapyuta-robotics.com/careers) (Locations: Tokyo, JPN; Zurich, CHE; Bangalore, IND)
+   * Autonomous Unmanned Aerial Vehicles
    * Cloud robotics
- * [FiveAI](http://www.five.ai/) (Location: Cambridge, UK)
+ * [FiveAI](http://www.five.ai/) (Location: Cambridge, GBR)
    * Autonomous Driving
- * [Iris AI](https://iris.ai/team/) (Locations: Oslo, NO; Berlin, DE; Odessa, UA; Sofia, BG)
+ * [Iris AI](https://iris.ai/team/) (Locations: Oslo, NOR; Berlin, DEU; Odessa, UKR; Sofia, BGR)
    * AI-based autonomy for robotic science experimentation
- * [Naio Technologies](http://naio-technologies.com/) (Location: Escalquens, FR)
+ * [Naio Technologies](http://naio-technologies.com/) (Location: Escalquens, FRA)
    * Agricultural robotics
- * [Franka Emika](http://www.franka.de/) (Location: Munich, DE)
+ * [Franka Emika](http://www.franka.de/) (Location: Munich, DEU)
    * Manipulation
    * Robot mechanics and design
- * [Dorabot](https://www.dorabot.com/) (Location: Shenzhen, CN)
+ * [Dorabot](https://www.dorabot.com/) (Location: Shenzhen, CHN)
    * Manipulation
    * Materials handling robotics
    * Warehouse and fulfillment robobtics
-   * Alt Locations: (Atlanta, USA; Brisbane, AU)
- * [Wayve](https://wayve.ai/) (Location: Cambridge, UK)
+   * _Alt Locations: Atlanta, USA; Brisbane, AUS_
+ * [Wayve](https://wayve.ai/) (Location: Cambridge, GBR)
    * Autonomous driving
 
 ## Non-Profits and Government Research Labs
@@ -345,12 +346,13 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Deep Reinforcement Learning
    * Machine Learning Theory
    * Computer Vision
- * [Allen Institute for Artificial Intelligence](http://allenai.org/) ([nternships](https://www.glassdoor.com/job-listing/internships-allen-institute-for-artificial-intelligence-JV_IC1150505_KO0,11_KE12,55.htm?jl=1854543460))
+ * [Allen Institute for Artificial Intelligence](http://allenai.org/) 
    * Natural language processing/semantics/question answering
    * Machine learning theory
    * Knowledge representation
    * Computer vision
- * [AFRL](https://teamafrl.afciviliancareers.com/opportunities)
+ * [Air Force Research Laboratory (AFRL)](https://teamafrl.afciviliancareers.com/opportunities)
+   * Autonomous Unmanned Aerial Vehicles
 
 
 ## Credits
