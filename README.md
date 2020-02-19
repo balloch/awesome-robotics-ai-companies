@@ -1,12 +1,12 @@
-# Awesome Robotics and Intelligent Agent Companies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Robotics and Agent Intelligence Companies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A List of Companies, Both Large and Small, That Are Stable and Developing Robots or Autonomous Intelligent Agents  
 
-Robotics is awesome, and people who think robotics is awesome are awesome, so I have a decided to put together a living list of important industry innovators in robotics and artificially intelligent agents. This is updated somewhat infrequently but is mostly accurate, and intended to be a starting point for people who want to developing careers in this space. If you want your/some other company added to this list, or think something needs to be adjusted, please a pull request (obviously adhering to the contributing guidelines)!
+Robotics is awesome, and people who think robotics is awesome are awesome, so I have a decided to put together a living list of important industry innovators in robotics and artificially intelligent agents. This is intended to be a starting point; there are many other cool companies out there that are just getting started! If you want a company added to this list, or think something needs to be adjusted, please a pull request (see the contributing guidelines)!
 
-NOTE: A lot of companies are saying that they have "AI" at this point. The companies on this list are restricted to what could be called "AI agency", that is, specifically, using artificial intelligence to enable autonomous agents that make their own decisions. This is not to be confused with the umbrella term "AI" being used today which includes generic machine learning, data analysis, and data visionalization, as these are all areas that enable _human_ decision makers. Occasionally I will throw in a computer vision focused company because of the degree to which the technology transfers.
+A NOTE ABOUT ARTIFICIAL INTELLIGENCE VS. AGENT INTELLIGENCE: 
+A lot of companies are saying that they have "artificial intelligence" at this point, which includes many on this list. However, the companies on this list are restricted to what could be called "AI agency" or as I refer to it "agent intelligence;" that is, specifically, produces and services using artificial intelligence or machine learning to enable autonomous agents that make their own decisions. This is not to be confused with the umbrella term "AI" being used by business to include generic machine learning, data analysis, and data visionalization to enable _human_ decision makers.  _Occasionally_ this list will include companies focused on highly intelligent agent and robotics transferable technology like companies working on dialogue or computer vision.
 
-_All locations listed are primary locations for engineering development, so the locations lists will be representative but are not guaranteed to be complete._
 
    * [Awesome Robotics and Intelligent Agent Companies <a href="https://awesome.re" rel="nofollow"><img src="https://camo.githubusercontent.com/1997c7e760b163a61aba3a2c98f21be8c524be29/68747470733a2f2f617765736f6d652e72652f62616467652e737667" alt="Awesome" data-canonical-src="https://awesome.re/badge.svg" style="max-width:100\x;"></a>](#awesome-robotics-and-intelligent-agent-companies-)
       * [Large Companies](#large-companies)
@@ -24,6 +24,7 @@ _All locations listed are primary locations for engineering development, so the 
       * [Credits](#credits)
 
 ## Large Companies
+_All locations listed are primary locations for engineering development, so the locations lists will be representative but are not guaranteed to be complete._
  * [Qualcomm](https://www.qualcomm.com/company/careers)
    * Autonomous Driving (Locations: Philadelphia, USA; San Diego, USA)
    * Autonomous Unmanned Aerial Vehicles (Locations: Philadelphia, USA)
