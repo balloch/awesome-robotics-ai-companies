@@ -34,7 +34,7 @@ _All locations listed are primary locations for engineering development, so the 
  * [Tesla](https://www.tesla.com)
    * Autonomous Driving (Locations: Palo Alto, USA; Fremont, USA; McCarren, USA; St. Leonards, AU; Beijing, CN; Hong Kong, CN; Tokyo, JP)
  * [Microsoft](https://www.microsoft.com/) 
-   * Microsoft Research (Locations: Palo Alto, USA; Redmond, USA; Seattle, USA; Cambridge, USA; New York, USA; Montreal, CA; Beijing, CP)
+   * Microsoft Research (Locations: Palo Alto, USA; Redmond, USA; Seattle, USA; Cambridge, USA; New York, USA; Montreal, CAN; Beijing, CP)
      * Deep Learning/AI Research
      * Computer Vision
      * Robotics
@@ -111,7 +111,7 @@ _All locations listed are primary locations for engineering development, so the 
    * Drones
    * Smart cameras
    * Computer vision
- * [Apple](http://www.apple.com/) (Locations: Seattle, USA)
+ * [Apple](http://www.apple.com/) (Locations: Seattle, USA; Cupertino, USA)
    * AI Research
    * Computer vision
    * Autonomous Driving (Special Problems Group)
@@ -123,9 +123,12 @@ _All locations listed are primary locations for engineering development, so the 
    * Robotic surgery (Locations: Sunnyvale, USA)
    * Human robot interaction research (Locations: Sunnyvale, USA; Atlanta, USA)
  * [Uber](https://www.uber.com/us/en/atg/)
-   * Uber Advanced Technologies Center (Locations: Pittsburgh, USA; Palo Alto, USA)
+   * Uber Advanced Technologies Group (Locations: Pittsburgh, USA; Toronto, CAN; Palo Alto, USA)
      * Autonomous driving
-   * Uber AI (Location: Palo Alto)
+     * Computer Vision
+   * Uber AI (Locations: Palo Alto, USA; Toronto)
+     * Autonomous driving
+     * Computer Vision
      * Robotics research
      * Reinforcement learning
  * [Aptiv](http://www.aptiv.com/) (Locations: Boston, USA; Pittsburgh, USA; Krakow, PL; Kokomo, USA; Seoul, SK)
@@ -135,6 +138,16 @@ _All locations listed are primary locations for engineering development, so the 
    * Manipulation
    * Robot mechanics and design
    * Industrial robotics
+ * [Kuka](https://www.kuka.com/) (Locations: Augsburg, DE; Budapest, HU; Austin, USA; Detroit, USA)
+   * Manipulation
+   * Robot mechanics and design
+   * Industrial robotics
+   * Warehouse and fulfillment automation
+   * Mobility and planning
+ * [Swisslog](https://www.swisslog.com/) (Locations: Aarau, CH; Dortmund, DE; Denver, USA; San Francisco, USA)
+   * Warehouse and fulfillment automation
+   * Healthcare automation
+   * Parent company: Kuka
  * [Cruise](http://getcruise.com/) (San Francisco, USA)
    * Autonomous driving
  * [Zoox](https://www.zoox.com/) (Location: Foster City, USA)
@@ -145,8 +158,10 @@ This list contains what I am calling start-ups, which is any company that isn't 
 
 ### North American Startups (by locale)
 #### Boston
+ * [Optimus Ride](https://www.optimusride.com/)
+   * Autonomous driving
  * [Boston Dynamics](https://www.bostondynamics.com/)
-   * Advanced Robot Mechanics
+   * Robot mechanics and design
    * Robot control
    * Autonomy 
    * Parent company: Softbank
@@ -268,6 +283,12 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [Diligent Robotics](http://diligentrobots.com/)
    * Healthcare robotics
    * Personal robot assistants
+ * [Maidbot](http://maidbot.com/)
+   * Household robotics
+   * Human robot interaction
+ * [Pensa Systems](https://www.pensasystems.com/)
+   * Retail robotics
+   * Drones
    
 #### New York
  * [Clarifai](https://www.clarifai.com/)
@@ -280,7 +301,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Mining robotics
    * Industrial robotics
    * Autonomous driving
- * [Kinova](https://www.kinovarobotics.com/en) (Location: Montreal, CA)
+ * [Kinova](https://www.kinovarobotics.com/en) (Location: Montreal, CAN)
    * Manipulation
    * Robot mechanics and design
  * [InVia Robotics](https://www.inviarobotics.com/) (Thousand Oaks, CA, USA)
@@ -288,7 +309,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [Intelligent Automation, Inc.](https://i-a-i.com) (Washington D.C., USA)
    * Research robotics
    * Automous inspection systems
- * [Clearpath Robotics](https://clearpathrobotics.com/) (Toronto, CA)
+ * [Clearpath Robotics](https://clearpathrobotics.com/) (Toronto, CAN)
    * Research robotics
    * Outdoor robotics
    * Robotic control
