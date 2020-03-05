@@ -76,8 +76,8 @@ _All locations listed are primary locations for engineering development, so the 
      * General Robotics
      * Autonomous Driving
  * [Amazon](https://www.aboutamazon.com/our-company) 
-   * Amazon Robotics (Locations: Westborough, USA; Seattle, USA)
-     * Warehouse and Fulfillment Automation
+   * Amazon Robotics (Formerly Kiva Systems) (Locations: Westborough, USA; Seattle, USA)
+     * Warehouse and fulfillment robotics and automation
      * Manipulation
      * Autonomous Unmanned Aerial Vehicles
    * Amazon Scout (Locations: Seattle, USA)
@@ -144,10 +144,10 @@ _All locations listed are primary locations for engineering development, so the 
    * Manipulation
    * Robot mechanics and design
    * Industrial robotics
-   * Warehouse and fulfillment automation
+   * Warehouse and fulfillment robotics and automation
    * Mobility and planning
  * [Swisslog](https://www.swisslog.com/) (Locations: Aarau, CHE; Dortmund, DEU; Denver, USA; San Francisco, USA)
-   * Warehouse and fulfillment automation
+   * Warehouse and fulfillment robotics and automation
    * Healthcare automation
    * Parent company: Kuka
  * [Cruise](http://getcruise.com/) (San Francisco, USA)
@@ -174,7 +174,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [Harvest Automation](https://www.public.harvesai.com)
    * Outdoor mobile robotics
    * Agricultural robotics
-   * Warehouse and fulfillment automation
+   * Warehouse and fulfillment robotics and automation
  * [Barrett Technology](http://www.barrett.com/)
    * Robot mechnics and design
    * Robot control
@@ -186,14 +186,16 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Computer vision
  * [Vecna Robotics](https://www.vecna.com/)
    * Manipulation
-   * Warehouse robotics
+   * Warehouse and fulfillment robotics and automation
+ * [6 River Systems](https://6river.com/)
+   * Warehouse and fulfillment robotics and automation
  * [Righthand Robotics](https://www.righthandrobotics.com/)
    * Manipulation
    * Robot mechanics and design
  * [Sea Machines](https://sea-machines.com/)
    * Autonomous marine vehicles
  * [Locus Robotics](https://locusrobotics.com/)
-   * Warehouse and fulfillment robotics
+   * Warehouse and fulfillment robotics and automation
  * [Ava Robotics](https://www.avarobotics.com/)
    * Telepresence
  
@@ -203,7 +205,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Autonomous delivery
  * [Fetch Robotics](https://fetchrobotics.com/)
    * Retail robotics
-   * Warehouse robotics
+   * Warehouse and fulfillment robotics and automation
    * Manipulation
  * [Zenuity](https://www.zenuity.com/)
    * Autonomous driving
@@ -266,7 +268,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Intelligent disembodied agents
  * [Berkshire Grey](https://www.berkshiregrey.com/)
    * Manipulation
-   * Warehouse and fulfillment robotics
+   * Warehouse and fulfillment robotics and automation
    
 #### Pittsburgh Area
  * [Bossa Nova Robotics](http://www.bossanova.com/)
@@ -280,6 +282,11 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [RE2 Robotics](https://www.resquared.com/)
    * Research robotics
    * Manipulation
+ * [Seegrid](http://www.seegrid.com/)
+   * Retail robotics
+   * Warehouse and fulfillment robotics and automation
+   * Computer vision
+   * 3D Mapping
 
 #### Austin Area
  * [Diligent Robotics](http://diligentrobots.com/)
@@ -307,7 +314,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Manipulation
    * Robot mechanics and design
  * [InVia Robotics](https://www.inviarobotics.com/) (Thousand Oaks, CA, USA)
-   * Warehouse robotics
+   * Warehouse and fulfillment robotics and automation
  * [Intelligent Automation, Inc.](https://i-a-i.com) (Washington D.C., USA)
    * Research robotics
    * Automous inspection systems
@@ -319,7 +326,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
 
 ### International Startups
  * [MIR](https://www.mobile-industrial-robots.com/) (Locations: Odense, DNK; New York, USA)
-   * Warehouse and fulfillment robotics
+   * Warehouse and fulfillment robotics and automation
  * [Rapyuta Robotics](https://www.rapyuta-robotics.com/careers) (Locations: Tokyo, JPN; Zurich, CHE; Bangalore, IND)
    * Autonomous Unmanned Aerial Vehicles
    * Cloud robotics
@@ -335,7 +342,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [Dorabot](https://www.dorabot.com/) (Location: Shenzhen, CHN)
    * Manipulation
    * Materials handling robotics
-   * Warehouse and fulfillment robobtics
+   * Warehouse and fulfillment robotics and automation
    * _Alt Locations: Atlanta, USA; Brisbane, AUS_
  * [Wayve](https://wayve.ai/) (Location: Cambridge, GBR)
    * Autonomous driving
