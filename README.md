@@ -253,6 +253,12 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * _Alt Locations: Pittsburgh, USA; Bozeman, USA_
  * [Starship Technologies](https://www.starship.xyz/)
    * Autonomous driving and delivery
+ * [NextNav](http://www.nextnav.com/)
+   * Computer vision
+   * 3D Mapping
+ * [DeepMap](https://www.deepmap.ai/)
+   * Computer vision
+   * 3D Mapping
 
 #### Boulder Area
  * [Left Hand Robotics](https://lefthandrobotics.com/)
@@ -304,6 +310,9 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Video/Image recognition
    * Enterprise visual decision making
    * _Alt locations: San Francisco, USA; Washington D.C., USA_
+ * [Carmera](https://carmera.com/)
+   * Computer vision
+   * 3D Mapping
 
 #### Other
  * [Autonomous Solutions](http://www.asirobots.com/) (Location: Petersboro, UT, USA)
@@ -322,7 +331,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Research robotics
    * Outdoor robotics
    * Robotic control
-   * User Interfaces
+   * User Interfaces 
 
 ### International Startups
  * [MIR](https://www.mobile-industrial-robots.com/) (Locations: Odense, DNK; New York, USA)
