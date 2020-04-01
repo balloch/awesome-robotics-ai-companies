@@ -82,10 +82,19 @@ _All locations listed are primary locations for engineering development, so the 
      * Autonomous Unmanned Aerial Vehicles
    * Amazon Scout (Locations: Seattle, USA)
      * Autonomous driving and delivery
-   * AWS (Locations: Seattle, USA)
+   * AWS AI (Locations: Seattle, USA)
      * Deep Learning/AI
    * Alexa (Locations: Seattle, USA; New York, USA)
      * Intelligent disembodied agents
+   * Lab 126
+     * Smart Devies
+   * Go (store)
+     * Computer Vision
+     * Machine learning
+     * Sensor fusion
+   * Prime Air
+     * Autonomous Unmanned Aerial Videos
+     * Autonomous driving and delivery
  * [Softbank](http://softbank.com/)
    * Softbank Robotics (Tokyo, JPN; Paris, FRA)
      * General Robotics
@@ -154,6 +163,10 @@ _All locations listed are primary locations for engineering development, so the 
    * Autonomous driving
  * [Zoox](https://www.zoox.com/) (Location: Foster City, USA)
    * Autonomous driving
+ * [Samsung Research](https://sra.samsung.com/)
+   * Intelligent disembodied agents
+   * Computer vision
+   * Robotics
 
 ## Stable Start-ups
 This list contains what I am calling start-ups, which is any company that isn't public, has a valuation at <$500M, has only a single primary location, and/or does not have a revenue stream that could result in stable profitability. "Stable" doesn't mean they cannot fail, but this list will not be used to keep track of every single effort as that would be exhuasting. If you want something like that, may I suggest [CrunchBase](www.crunchbase.com) and [Robotics Business Review](https://www.roboticsbusinessreview.com/).
