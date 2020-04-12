@@ -276,10 +276,10 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Farming robot
    * Picks weeds/reduces pesticide use
    * (Lemnos funded)
-  * [Built Robotics] (https://www.builtrobotics.com/)
+ * [Built Robotics](https://www.builtrobotics.com/)
    * Earth moving robots
    * Use OEM machines from Caterpillar/Komatsu 
-  * [Phantom Auto] (https://phantom.auto/)
+ * [Phantom Auto](https://phantom.auto/)
    * Supports robots through teleoperation
 
 #### Boulder Area
@@ -315,7 +315,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Warehouse and fulfillment robotics and automation
    * Computer vision
    * 3D Mapping
-  * [Tybot] (https://www.tybotllc.com/)
+ * [Tybot](https://www.tybotllc.com/)
    * Ties rebar cages
 
 #### Austin Area
@@ -337,7 +337,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [Carmera](https://carmera.com/)
    * Computer vision
    * 3D Mapping
-  * [Toggle] (https://www.toggle.is/)
+ * [Toggle](https://www.toggle.is/)
    * Rebar tying robot with robotic arm
    
 #### Other
