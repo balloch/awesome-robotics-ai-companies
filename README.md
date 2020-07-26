@@ -272,6 +272,15 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [DeepMap](https://www.deepmap.ai/)
    * Computer vision
    * 3D Mapping
+ * [Farmwise](https://farmwise.io/)
+   * Farming robot
+   * Picks weeds/reduces pesticide use
+   * (Lemnos funded)
+ * [Built Robotics](https://www.builtrobotics.com/)
+   * Earth moving robots
+   * Use OEM machines from Caterpillar/Komatsu 
+ * [Phantom Auto](https://phantom.auto/)
+   * Supports robots through teleoperation
 
 #### Boulder Area
  * [Left Hand Robotics](https://lefthandrobotics.com/)
@@ -306,6 +315,8 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Warehouse and fulfillment robotics and automation
    * Computer vision
    * 3D Mapping
+ * [Tybot](https://www.tybotllc.com/)
+   * Ties rebar cages
 
 #### Austin Area
  * [Diligent Robotics](http://diligentrobots.com/)
@@ -326,7 +337,9 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [Carmera](https://carmera.com/)
    * Computer vision
    * 3D Mapping
-
+ * [Toggle](https://www.toggle.is/)
+   * Rebar tying robot with robotic arm
+   
 #### Other
  * [Autonomous Solutions](http://www.asirobots.com/) (Location: Petersboro, UT, USA)
    * Mining robotics
