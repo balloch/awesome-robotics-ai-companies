@@ -171,7 +171,7 @@ _All locations listed are primary locations for engineering development, so the 
 ## Stable Start-ups
 This list contains what I am calling start-ups, which is any company that isn't public, has a valuation at <$500M, has only a single primary location, and/or does not have a revenue stream that could result in stable profitability. "Stable" doesn't mean they cannot fail, but this list will not be used to keep track of every single effort as that would be exhuasting. If you want something like that, may I suggest [CrunchBase](www.crunchbase.com) and [Robotics Business Review](https://www.roboticsbusinessreview.com/).
 
-### North American Startups (by locale)
+### American Startups (by locale)
 #### Boston
  * [Optimus Ride](https://www.optimusride.com/)
    * Autonomous driving
@@ -332,21 +332,21 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Mining robotics
    * Industrial robotics
    * Autonomous driving
- * [Kinova](https://www.kinovarobotics.com/en) (Location: Montreal, CAN)
-   * Manipulation
-   * Robot mechanics and design
  * [InVia Robotics](https://www.inviarobotics.com/) (Thousand Oaks, CA, USA)
    * Warehouse and fulfillment robotics and automation
  * [Intelligent Automation, Inc.](https://i-a-i.com) (Washington D.C., USA)
    * Research robotics
    * Automous inspection systems
+
+### International Startups
  * [Clearpath Robotics](https://clearpathrobotics.com/) (Toronto, CAN)
    * Research robotics
    * Outdoor robotics
    * Robotic control
    * User Interfaces 
-
-### International Startups
+ * [Kinova](https://www.kinovarobotics.com/en) (Location: Montreal, CAN)
+   * Manipulation
+   * Robot mechanics and design
  * [MIR](https://www.mobile-industrial-robots.com/) (Locations: Odense, DNK; New York, USA)
    * Warehouse and fulfillment robotics and automation
  * [Rapyuta Robotics](https://www.rapyuta-robotics.com/careers) (Locations: Tokyo, JPN; Zurich, CHE; Bangalore, IND)
@@ -368,6 +368,9 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * _Alt Locations: Atlanta, USA; Brisbane, AUS_
  * [Wayve](https://wayve.ai/) (Location: Cambridge, GBR)
    * Autonomous driving
+ * [Saga Robotics](https://sagarobotics.com/) (Oslo, NOR)
+   * Agricultural Robotics
+   * _Alt Location: Lincoln, GBR_
 
 ## Non-Profits and Government Research Labs
  * [OpenAI](https://openai.com/)
