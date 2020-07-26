@@ -373,20 +373,44 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * _Alt Location: Lincoln, GBR_
 
 ## Non-Profits and Government Research Labs
- * [OpenAI](https://openai.com/)
+ * [OpenAI](https://openai.com/) (Location: San Francisco, CA, USA)
    * Autonomous Driving
    * Deep Learning/General AI
    * Deep Reinforcement Learning
    * Machine Learning Theory
    * Computer Vision
- * [Allen Institute for Artificial Intelligence](http://allenai.org/) 
+ * [Allen Institute for Artificial Intelligence](http://allenai.org/) (Location: Seattle, WA, USA)
    * Natural language processing/semantics/question answering
    * Machine learning theory
    * Knowledge representation
    * Computer vision
- * [Air Force Research Laboratory (AFRL)](https://teamafrl.afciviliancareers.com/opportunities)
+ * [Open Robotics](https://www.openrobotics.org/) (Location: San Francisco, CA, USA; Singapore)
+   * Robotics software development
+   * Robotics Simulation
+   * Formerly: Open Source Robotics Foundation; Willow Garage 
+ * [Army Research Laboratory (ARL)](https://www.arl.army.mil/) (Locatoin: Adelphi, MD, USA)
+   * Autonomous Driving
+   * Computer vision
+   * Human Robot Interaction
+   * Adaptation/robustness to unknown or adversarial terrain
+ * [Naval Resaerch Laboratory (NRL)](https://www.nrl.navy.mil/) (Location: Washinton D.C., USA)
+   * Autonomous Underwater unmanned vehicles
    * Autonomous Unmanned Aerial Vehicles
-
+   * Marine robotics
+   * Autonomous Testing of Robotics
+   * Human Robot Interaction
+   * Artificial Intelligence
+   * Manipulation
+ * [Air Force Research Laboratory (AFRL)](https://teamafrl.afciviliancareers.com/opportunities) (Location: Dayton, OH, USA)
+   * Autonomous Unmanned Aerial Vehicles
+   * Computer Vision
+ * [NASA Jet Propulsion Laboratory (JPL) and Ames Laboratory](https://robotics.nasa.gov/) (Location: Pasadena, CA, USA; Sunnyvale, CA, USA)
+   * Space robotics
+   * Autonomous Unmanned Ground Vehicles
+   * Autonomous Unmanned Aerial Vehicles
+   * Self-assembling structures
+   * Computer Vision
+   * Human Robot Interaction
 
 ## Credits
 Designed in accordance with Sindre's [awesome](https://github.com/sindresorhus/awesome) superlist. Thanks Sindre!
