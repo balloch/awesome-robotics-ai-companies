@@ -4,9 +4,11 @@ A List of Companies, Both Large and Small, That Are Stable and Developing Robots
 
 Robotics is awesome, and people who think robotics is awesome are awesome, so I have a decided to put together a living list of important industry innovators in robotics and artificially intelligent agents. This is intended to be a starting point; there are many other cool companies out there that are just getting started! If you want a company added to this list, or think something needs to be adjusted, please a pull request (see the contributing guidelines)!
 
-**A NOTE ABOUT ARTIFICIAL INTELLIGENT AGENTS:** 
+**A NOTE ABOUT ARTIFICIALLY INTELLIGENT AGENTS:** 
 A lot of companies are saying that they have "artificial intelligence" at this point, including many on this list. However, _this_ list is restricted to those companies that work on "artificially intelligent agency" or "agent intelligence;" that is, the products they produce and services the sell use artificial intelligence or machine learning to enable autonomous agents that _make their own decisions_. I make no claim that there is one correct use of the term "AI," but this is not to be confused with the umbrella term "AI" being used by businesses to include generic machine learning, data analysis, and data visionalization services that enable _human_ decision makers (to say nothing of the services that involve none of the above).  _Occasionally_ this list will include companies focused on technology that supports or directly applies to artificially intelligent agents (for example those working on dialogue, 3D mapping, or computer vision), but I generally try to discourage this.
 
+**(2024-04-17) A NOTE ABOUT THE RECENT EXPLOSION IN FOUNDATION MODEL AGENT COMPANIES**
+Due to the recent use of LLMs to create the underlying decision making process of intelligent agents, there has been an explosion in startups trying to use these methods for a variety of different products and services. Here I will only try to focus on companies that have a significantly deeper technological contribution than "Agent based on context and LLM Chain/Tree of thought," and specifically companies that actually have demonstrated real world application of their technology. For the moment, that means few if any of this companies make the cut, but they may in the future. 
 
    * [Awesome Robotics and Intelligent Agent Companies <a href="https://awesome.re" rel="nofollow"><img src="https://camo.githubusercontent.com/1997c7e760b163a61aba3a2c98f21be8c524be29/68747470733a2f2f617765736f6d652e72652f62616467652e737667" alt="Awesome" data-canonical-src="https://awesome.re/badge.svg" style="max-width:100\x;"></a>](#awesome-robotics-and-intelligent-agent-companies-)
       * [Large Companies](#large-companies)
@@ -33,8 +35,10 @@ _All locations listed are primary locations for engineering development, so the 
    * Computer Vision
    * Simulated Robotic Control
    * Manipulation
+   * Notable acquisitions: [DeepMap](https://www.deepmap.ai/)
  * [Tesla](https://www.tesla.com)
    * Autonomous Driving (Locations: Palo Alto, USA; Fremont, USA; McCarren, USA; St. Leonards, AUS; Beijing, CHN; Hong Kong, CHN; Tokyo, JPN)
+   * Humanoid Robots
  * [Microsoft](https://www.microsoft.com/) 
    * Microsoft Research (Locations: Palo Alto, USA; Redmond, USA; Seattle, USA; Cambridge, USA; New York, USA; Montreal, CAN; Beijing, CHN)
      * Deep Learning/AI Research
@@ -95,11 +99,11 @@ _All locations listed are primary locations for engineering development, so the 
    * Prime Air
      * Autonomous Unmanned Aerial Videos
      * Autonomous driving and delivery
- * [Softbank](http://softbank.com/)
+ * [Softbank](https://softbank.com/)
    * Softbank Robotics (Tokyo, JPN; Paris, FRA)
      * General Robotics
      * HRI and Assistive Robotics
- * [Dyson](http://dyson.com/) (Location: Malmesbury, GBR; Singapore)
+ * [Dyson](https://dyson.com/) (Location: Malmesbury, GBR; Singapore)
    * Household cleaning robotics
    * SLAM/Localisation
    * Computer Vision (image processing, object detection/recognition)
@@ -118,31 +122,22 @@ _All locations listed are primary locations for engineering development, so the 
  * [FANUC](https://www.fanucamerica.com/) (Location: Oshino, JPN)
    * Manipulation
    * Industrial robotics
- * [DJI](http://www.dji.com/) (Locations: Shenzhen, CHN; Los Angeles, USA)
+ * [DJI](https://www.dji.com/) (Locations: Shenzhen, CHN; Los Angeles, USA)
    * Autonomous Unmanned Aerial Vehicles
    * Smart cameras
    * Computer vision
- * [Apple](http://www.apple.com/) (Locations: Seattle, USA; Cupertino, USA)
+ * [Apple](https://www.apple.com/) (Locations: Seattle, USA; Cupertino, USA)
    * AI Research
    * Computer vision
    * Autonomous Driving (Special Problems Group)
- * [Medtronic](http://medtronic.com/)
+ * [Medtronic](https://medtronic.com/)
    * Healthcare robotic devices (Locations: Frindley, USA; Dublin, IRL)
    * Robotic surgery (Locations: Caeserea, ISR)
  * [Intuitive Surgical](https://www.intuitive.com/)
    * Healthcare robotic devices (Locations: Sunnyvale, USA)
    * Robotic surgery (Locations: Sunnyvale, USA)
    * Human robot interaction research (Locations: Sunnyvale, USA; Atlanta, USA)
- * [Uber](https://www.uber.com/us/en/atg/)
-   * Uber Advanced Technologies Group (Locations: Pittsburgh, USA; Toronto, CAN; Palo Alto, USA)
-     * Autonomous driving
-     * Computer Vision
-   * Uber AI (Locations: Palo Alto, USA; Toronto, CAN)
-     * Autonomous driving
-     * Computer Vision
-     * Robotics research
-     * Reinforcement learning
- * [Aptiv](http://www.aptiv.com/) (Locations: Boston, USA; Pittsburgh, USA; Krakow, POL; Kokomo, USA; Seoul, KOR)
+ * [Aptiv](https://www.aptiv.com/) (Locations: Boston, USA; Pittsburgh, USA; Krakow, POL; Kokomo, USA; Seoul, KOR)
    * Autonomous driving
    * Sensor systems for autonomous vehicles
  * [Universal Robots](https://www.universal-robots.com/) (Locations: Odense, DNK; Boston, USA; Tokyo, JPN)
@@ -159,7 +154,7 @@ _All locations listed are primary locations for engineering development, so the 
    * Warehouse and fulfillment robotics and automation
    * Healthcare automation
    * Parent company: Kuka
- * [Cruise](http://getcruise.com/) (San Francisco, USA)
+ * [Cruise](https://getcruise.com/) (San Francisco, USA)
    * Autonomous driving
  * [Zoox](https://www.zoox.com/) (Location: Foster City, USA)
    * Autonomous driving
@@ -167,19 +162,22 @@ _All locations listed are primary locations for engineering development, so the 
    * Intelligent disembodied agents
    * Computer vision
    * Robotics
+ * [Magna International](https://www.magna.com/products/electrical-electronics/adas-automated-driving) (Aurora, ON, CAN; MI, USA; Muenchen, DEU; Kechnec, SVK; others)
+   * Autonomous driving
+   * Delivery Robots
+   * Notable purchases/mergers: [Optimus Ride](https://www.optimusride.com/)
+
 
 ## Stable Start-ups
-This list contains what I am calling start-ups, which is any company that isn't public, has a valuation at <$500M, has only a single primary location, and/or does not have a revenue stream that could result in stable profitability. "Stable" doesn't mean they cannot fail, but this list will not be used to keep track of every single effort as that would be exhuasting. If you want something like that, may I suggest [CrunchBase](www.crunchbase.com) and [Robotics Business Review](https://www.roboticsbusinessreview.com/).
+This list contains what I am calling "stable start-ups," which is any company that isn't public, has a valuation at <$500M, has only or two primary locations, and/or does not have a revenue stream that could result in short term profitability. "Stable" doesn't mean they cannot fail, but this list will not be used to keep track of every single effort as that would be exhuasting. If you want something like that, may I suggest [CrunchBase](www.crunchbase.com) and [Robotics Business Review](https://www.roboticsbusinessreview.com/).
 
 ### American Startups (by locale)
 #### Boston
- * [Optimus Ride](https://www.optimusride.com/)
-   * Autonomous driving
  * [Boston Dynamics](https://www.bostondynamics.com/)
    * Robot mechanics and design
    * Robot control
    * Autonomy 
-   * Parent company: Softbank
+   * Parent company: Hyundai
  * [Realtime Robotics](https://rtr.ai/)
    * Autonomy
    * Robotic control
@@ -188,7 +186,7 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Outdoor mobile robotics
    * Agricultural robotics
    * Warehouse and fulfillment robotics and automation
- * [Barrett Technology](http://www.barrett.com/)
+ * [Barrett Technology](https://www.barrett.com/)
    * Robot mechnics and design
    * Robot control
    * Manipulation
@@ -220,42 +218,33 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Retail robotics
    * Warehouse and fulfillment robotics and automation
    * Manipulation
- * [Zenuity](https://www.zenuity.com/)
-   * Autonomous driving
  * [AutoX](autox.ai)
    * Autonomous driving
    * _Alt Location: Shenzhen, CHN_
- * [Deepscale AI](http://deepscale.ai/)
-   * Autonomous Driving
- * [Double Robotics](http://www.doublerobotics.com/)
+ * [Double Robotics](https://www.doublerobotics.com/)
    * Telepresence
  * [Covariant AI](https://covariant.ai/)
-   * Robotics
+   * General Robotics
    * Manipulation
    * Computer Vision
    * Reinforcement Learning
- * [Abundant Robotics](https://www.abundantrobotics.com/)
-   * Agriculture robotics
- * [Blue River Technology](http://www.bluerivertechnology.com/)
+ * [Blue River Technology](https://www.bluerivertechnology.com/)
    * Agriculture Robotics
    * Outdoor robotics
    * Parent company: John Deere
- * [Neato Robotics](http://neatorobotics.com)
-   * Robot vacuums
- * [Skydio](http://www.skydio.com/)
+ * [Skydio](https://www.skydio.com/)
    * Autonomous Unmanned Aerial Vehicles
- * [Iron Ox](http://ironox.com/)
-   * Agriculture robotics
- * [Liquid Robotics](http://liquid-robotics.com/)
+ * [Liquid Robotics](https://liquid-robotics.com/)
    * Marine robotics
    * Robot controls
    * Robot research
    * Parent company: Boeing
- * [Vicarious](https://www.vicarious.com/)
+ * [Intrinsic](https://www.intrinsic.ai)
    * Artificial intelligence research
    * Intelligent robot assistants
- * [Suitable Technologies](http://www.suitabletech.com/)
-   * Telepresence
+   * Warehouse and fulfillment robotics and automation
+   * Parent company: Alphabet
+   * Notable purchases: [Vicarious](https://www.vicarious.com/)
  * [Orbital Insight](https://www.orbitalinsight.com)
    * Computer Vision
    * _Alt locations: Washington D.C., USA; Boston, USA_
@@ -264,14 +253,6 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [Aurora Technologies](https://aurora.tech/)
    * Autonomous driving
    * _Alt Locations: Pittsburgh, USA; Bozeman, USA_
- * [Starship Technologies](https://www.starship.xyz/)
-   * Autonomous driving and delivery
- * [NextNav](http://www.nextnav.com/)
-   * Computer vision
-   * 3D Mapping
- * [DeepMap](https://www.deepmap.ai/)
-   * Computer vision
-   * 3D Mapping
  * [Farmwise](https://farmwise.io/)
    * Farming robot
    * Picks weeds/reduces pesticide use
@@ -279,8 +260,40 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [Built Robotics](https://www.builtrobotics.com/)
    * Earth moving robots
    * Use OEM machines from Caterpillar/Komatsu 
- * [Phantom Auto](https://phantom.auto/)
-   * Supports robots through teleoperation
+ * [Figure](https://figure.ai)
+   * Humanoid robotics
+ * [Ambi Robotics](https://ambirobotics.com)
+   * Warehouse and fulfillment robotics and automation
+   * Manipulation
+ * [Bear Robotics](https://www.bearrobotics.ai/)
+   * Service robotics
+ * [Chef robotics](https://www.chefrobotics.ai/)
+   * Food preparation robotics
+ * [Civ Robotics](https://www.civrobotics.com/)
+   * Construction robotics
+ * [Collaborative Robotics](https://www.co.bot/)
+   * Human robot interation
+ * [Dexterity Robotics](https://www.dexterity.ai)
+   * Manipulation
+   * Warehouse and fulfillment robotics and automation
+ * [Nimble](https://nimble.ai)
+   * Manipulation
+   * Warehouse and fulfillment robotics and automation
+ * [Matic](https://maticrobots.com/)
+   * Household cleaning robotics
+ * [Relay Robotics](https://www.relayrobotics.com/)
+   * Healthcare robotics
+ * [Pyka](https://www.flypyka.com/)
+   * Unmanned aerial vehicles
+ * [Robust AI](https://www.robus.ai/)
+   * Manipulation
+   * Warehouse and fulfillment robotics and automation
+ * [UnitX](https://www.unitxlabs.com)
+   * Manipulation
+   * Warehouse and fulfillment robotics and automation
+   * Inspection robotics
+ * [Volley Automation](https://volleyautomation.com/)
+   * Autonomous Parking
 
 #### Boulder Area
  * [Left Hand Robotics](https://lefthandrobotics.com/)
@@ -297,39 +310,72 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [Berkshire Grey](https://www.berkshiregrey.com/)
    * Manipulation
    * Warehouse and fulfillment robotics and automation
+ * [Scythe Robotics](https://www.scytherobotics.com/)
+   * Outdoor robotics
+   * Formerly Savioke
    
 #### Pittsburgh Area
- * [Bossa Nova Robotics](http://www.bossanova.com/)
+ * [Bossa Nova Robotics](https://www.bossanova.com/)
    * Retail robotics
    * Manipulation
- * [Argo AI](https://www.argo.ai/)
-   * Autonomous driving
  * [Astrobotic](https://www.astrobotic.com/)
    * Autonomous spaceflight landers
    * Autonomous planetary rovers
- * [RE2 Robotics](https://www.resquared.com/)
-   * Research robotics
-   * Manipulation
- * [Seegrid](http://www.seegrid.com/)
+ * [Seegrid](https://www.seegrid.com/)
    * Retail robotics
    * Warehouse and fulfillment robotics and automation
    * Computer vision
    * 3D Mapping
  * [Tybot](https://www.tybotllc.com/)
    * Ties rebar cages
+ * [Aethon, Inc.](aethon.com)
+   * Assistive robotics
+   * Hotel robotics
+   * Parent company: ST Engineering
+ * [Gecko Robotics](https://www.geckorobotics.com/)
+   * Inspection robotics
+   * Climbing robots
+ * [Neya Robotics](https://neyarobotics.com/)
+   * Unmanned ground vehicles
+   * Unmanned aerial vehicles
+ * [Near Earth Autonomy](https://www.nearearth.aero/)
+   * Unmanned aerial vehicles
+ * [Mine Vision Systems](https://www.minevisionsystems.com)
+   * Unmanned aerial vehicles
+   * Computer vision
+ * [Four Growers, Inc.](https://fourgrowers.com/)
+   * Agriculture Robotics
+   * Outdoor robotics
+   * Manipulation
+ * [Onward Robotics](https://onwardrobotics.com/)
+   * Warehouse and fulfillment robotics and automation
+   * Formerly IAM robotics
+ * [Stack AV](https://stackav.com/)
+   * Autonomous driving
+   * Trucking
 
 #### Austin Area
- * [Diligent Robotics](http://diligentrobots.com/)
+ * [Diligent Robotics](https://diligentrobots.com/)
    * Healthcare robotics
    * Personal robot assistants
- * [Maidbot](http://maidbot.com/)
+ * [Tailos](https://tailos.com)
    * Household robotics
    * Human robot interaction
+   * Robot vacuums
+   * Formerly: Maidbot
  * [Pensa Systems](https://www.pensasystems.com/)
    * Retail robotics
    * Autonomous Unmanned Aerial Vehicles
+ * [Apptronik](https://www.apptronik.com)
+   * Humanoid robotics
+   * Warehouse and fulfillment robotics and automation
+ * [Inevitable Tech](https://inevitabletech.com/)
+   * Agriculture robotics
+   * Formerly: Iron Ox
    
 #### New York
+ * [Aescape](www.aescape.co/)
+   * Massage robotics
  * [Clarifai](https://www.clarifai.com/)
    * Video/Image recognition
    * Enterprise visual decision making
@@ -341,22 +387,43 @@ This list contains what I am calling start-ups, which is any company that isn't 
    * Rebar tying robot with robotic arm
    
 #### Other
- * [Autonomous Solutions](http://www.asirobots.com/) (Location: Petersboro, UT, USA)
+ * [Autonomous Solutions](https://www.asirobots.com/) (Location: Petersboro, UT, USA)
    * Mining robotics
    * Industrial robotics
    * Autonomous driving
  * [InVia Robotics](https://www.inviarobotics.com/) (Thousand Oaks, CA, USA)
    * Warehouse and fulfillment robotics and automation
- * [Intelligent Automation, Inc.](https://i-a-i.com) (Washington D.C., USA)
-   * Research robotics
-   * Automous inspection systems
+ * [Slip Robotics](https://www.sliprobotics.com/) (Atlanta, GA, USA)
+   * Warehouse and fulfillment robotics and automation
+ * [Path Robotics](https://www.path-robotics.com) (Columbus, OH, USA)
+   * Welding robotics
+ * [Greenzie](https://www.greenzie.com/) (Atlanta, GA, USA)
+   * Outdoor robotics
+ * [Agility Robotics](https://www.agilityrobotics.com) (Tangent, OR, USA)
+   * Humanoid Robotics
+ * [Neocis](https://www.neocis.com) (Miami, FL, USA)
+   * Surgical Robotics
+ * [GrayMatter Robotics](https://graymatter-robotics.com/) (Los Angeles, CA, USA)
+   * Manufacturing Robotics
+ * [Formic Technologies](https://formic.co/) (Chicago, IL, USA)
+   * Warehouse and fulfillment robotics and automation
+ * [Overland AI](https://www.overland.ai/) (Seattle, WA, USA)
+   * Autonomous driving
+   * Outdoor robotics
+ * [Anduril](https://www.anduril.com/) (Los Angeles, CA, USA)
+   * Unmanned aerial vehicles
 
 ### International Startups
+ * [1X Technologies](https://www.1x.tech/careers#open-roles) (Moss, NOR; Sunnyvale, CA, USA)
+   * Humanoid Robotics
+ * [Sanctuary AI](https://www.sancuary.ai) (Vancouver, BC, CAN)
+   * Humanoid Robotics  
  * [Clearpath Robotics](https://clearpathrobotics.com/) (Toronto, CAN)
    * Research robotics
    * Outdoor robotics
    * Robotic control
-   * User Interfaces 
+   * User Interfaces
+   * Parent company: Rockwell Automation
  * [Kinova](https://www.kinovarobotics.com/en) (Location: Montreal, CAN)
    * Manipulation
    * Robot mechanics and design
@@ -365,13 +432,13 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [Rapyuta Robotics](https://www.rapyuta-robotics.com/careers) (Locations: Tokyo, JPN; Zurich, CHE; Bangalore, IND)
    * Autonomous Unmanned Aerial Vehicles
    * Cloud robotics
- * [FiveAI](http://www.five.ai/) (Location: Cambridge, GBR)
+ * [FiveAI](https://www.five.ai/) (Location: Cambridge, GBR)
    * Autonomous Driving
  * [Iris AI](https://iris.ai/team/) (Locations: Oslo, NOR; Berlin, DEU; Odessa, UKR; Sofia, BGR)
    * AI-based autonomy for robotic science experimentation
- * [Naio Technologies](http://naio-technologies.com/) (Location: Escalquens, FRA)
+ * [Naio Technologies](https://naio-technologies.com/) (Location: Escalquens, FRA)
    * Agricultural robotics
- * [Franka Emika](http://www.franka.de/) (Location: Munich, DEU)
+ * [Franka Emika](https://www.franka.de/) (Location: Munich, DEU)
    * Manipulation
    * Robot mechanics and design
  * [Dorabot](https://www.dorabot.com/) (Location: Shenzhen, CHN)
@@ -384,15 +451,39 @@ This list contains what I am calling start-ups, which is any company that isn't 
  * [Saga Robotics](https://sagarobotics.com/) (Oslo, NOR)
    * Agricultural Robotics
    * _Alt Location: Lincoln, GBR_
+ * [ANYbotics](https://www.anybotics.com/) (Zurich, CHE)
+   * Quadruped robots
+   * Inspection robotics
+ * [Baubot](https://www.baubot.com) (Wein, AUT)
+   * Construction robotics
+ * [Blue Ocean Robotics](blue-ocean-robotics.com) (Odense, DNK)
+   * Telepresence robotics
+   * Cleaning robots
+   * Healthcare robotics
+   * Warehouse and fulfillment robotics and automation
+   * Notable acquisitions: GoBe Robots, Suitable Technologies, UVD robots, PTR robots
+ * [Starship Technologies](https://www.starship.xyz/) (Tallinn, EST)
+   * Autonomous driving and delivery
+   * Alt location: San Francisco, CA, USA
+ * [Keybotic](https://keybotic.com/) (Barcelona, ESP)
+   * Quadruped robots
+   * Inspection robotics
+ * [Exotec](https://www.exotec.com/) (Lille, FRA)
+   * Warehouse and fulfillment robotics and automation
+   * Alt locations: Atlanta, GA, USA; Munich, Germany
+ * [Exotec](https://enchanted.tools/) (Paris, FRA)
+   * Warehouse and fulfillment robotics and automation
+   * Alt locations: Atlanta, GA, USA; Munich, Germany
+ 
 
 ## Non-Profits and Government Research Labs
  * [OpenAI](https://openai.com/) (Location: San Francisco, CA, USA)
-   * Autonomous Driving
+   * Research robotics
    * Deep Learning/General AI
    * Deep Reinforcement Learning
    * Machine Learning Theory
    * Computer Vision
- * [Allen Institute for Artificial Intelligence](http://allenai.org/) (Location: Seattle, WA, USA)
+ * [Allen Institute for Artificial Intelligence](https://allenai.org/) (Location: Seattle, WA, USA)
    * Natural language processing/semantics/question answering
    * Machine learning theory
    * Knowledge representation
