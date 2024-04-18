@@ -156,6 +156,7 @@ _All locations listed are primary locations for engineering development, so the 
    * Parent company: Kuka
  * [Cruise](https://getcruise.com/) (San Francisco, USA)
    * Autonomous driving
+   * Notable acquisistions: Voyage
  * [Zoox](https://www.zoox.com/) (Location: Foster City, USA)
    * Autonomous driving
  * [Samsung Research](https://sra.samsung.com/)
