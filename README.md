@@ -386,6 +386,12 @@ This list contains what I am calling "stable start-ups," which is any company th
    * 3D Mapping
  * [Toggle](https://www.toggle.is/)
    * Rebar tying robot with robotic arm
+ * [Honeybee Robotics](https://www.honeybeerobotics.com/)
+   * Space robotics
+   * Manipulation
+   * Unmanned ground vehicles
+   * Unmanned aerial vehicles
+   * Parent Company: Blue Origin
    
 #### Other
  * [Autonomous Solutions](https://www.asirobots.com/) (Location: Petersboro, UT, USA)
@@ -475,7 +481,9 @@ This list contains what I am calling "stable start-ups," which is any company th
  * [Exotec](https://enchanted.tools/) (Paris, FRA)
    * Warehouse and fulfillment robotics and automation
    * Alt locations: Atlanta, GA, USA; Munich, Germany
- 
+ * [Nomagic](https://nomagic.ai/) (Warsaw, POL)
+   * Warehouse and fulfillment robotics and automation
+   * Manipulation
 
 ## Non-Profits and Government Research Labs
  * [OpenAI](https://openai.com/) (Location: San Francisco, CA, USA)
