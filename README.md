@@ -166,8 +166,14 @@ _All locations listed are primary locations for engineering development, so the 
  * [Magna International](https://www.magna.com/products/electrical-electronics/adas-automated-driving) (Aurora, ON, CAN; MI, USA; Muenchen, DEU; Kechnec, SVK; others)
    * Autonomous driving
    * Delivery Robots
-   * Notable purchases/mergers: [Optimus Ride](https://www.optimusride.com/)
-
+   * Notable acquisitions: [Optimus Ride](https://www.optimusride.com/)
+ * [Mercedes-Benz](https://mbrdna.com/) (Stuttgart, DUE; Detroit, MI, USA; Los Angeles, CA, USA; San Francisco, CA, USA; Seattle, WA, USA; Shanghai, CHN)
+   * Autonomous driving
+   * Autonomous trucking
+ * [Bosch Research](https://www.bosch.com/research/research-fields/automation/research-on-robotics/) (Stuttgart, DUE; Pittsburgh, PA, USA; San Francisco, CA, USA)
+   * Manipulation
+   * Autonomous driving
+   * Human robot interaction
 
 ## Stable Start-ups
 This list contains what I am calling "stable start-ups," which is any company that isn't public, has a valuation at <$500M, has only or two primary locations, and/or does not have a revenue stream that could result in short term profitability. "Stable" doesn't mean they cannot fail, but this list will not be used to keep track of every single effort as that would be exhuasting. If you want something like that, may I suggest [CrunchBase](www.crunchbase.com) and [Robotics Business Review](https://www.roboticsbusinessreview.com/).
@@ -210,11 +216,16 @@ This list contains what I am calling "stable start-ups," which is any company th
    * Warehouse and fulfillment robotics and automation
  * [Ava Robotics](https://www.avarobotics.com/)
    * Telepresence
+ * [GelSight](https://gelsight.com/)
+   * Manipulation
+   * Haptics
  
 #### San Francisco Bay Area
  * [Nuro](https://www.nuro.ai)
    * Autonomous driving
    * Autonomous delivery
+   * Autonomous trucking
+   * Notable acquisitions: Ike robotics
  * [Fetch Robotics](https://fetchrobotics.com/)
    * Retail robotics
    * Warehouse and fulfillment robotics and automation
@@ -245,7 +256,7 @@ This list contains what I am calling "stable start-ups," which is any company th
    * Intelligent robot assistants
    * Warehouse and fulfillment robotics and automation
    * Parent company: Alphabet
-   * Notable purchases: [Vicarious](https://www.vicarious.com/)
+   * Notable acquisitions: [Vicarious](https://www.vicarious.com/)
  * [Orbital Insight](https://www.orbitalinsight.com)
    * Computer Vision
    * _Alt locations: Washington D.C., USA; Boston, USA_
@@ -295,8 +306,32 @@ This list contains what I am calling "stable start-ups," which is any company th
    * Inspection robotics
  * [Volley Automation](https://volleyautomation.com/)
    * Autonomous Parking
+ * [Safe AI](https://safeai.ai/)
+   * Robot mining
+   * Outdoor robotics
+   * Construction robotics
+ * [Cobalt AI](https://www.cobaltai.com/)
+   * Robot Security and monitoring
+   * Telepresence
+ * [Joby Aviation](https://www.jobyaviation.com)
+   * Unmanned aerial vehicles
+   * Human flight assistance
+ * [Kodiak](https://www.kodiak.ai/)
+   * Autonomous trucking
+ * [Pony.ai](https://www.pony.ai/)
+   * Autonomous driving
+   * Autonomous trucking
+ * [Intuition Robotics](http://www.intuitionrobotics.com/)
+   * Healthcare robotics
+   * Human robot interaction
+ * [Matternet](https://mttr.net/)
+   * Unmanned aerial vehicles
+   * Drone delivery
+ * [Wing](https://wing.com/)
+   * Unmanned aerial vehicles
+   * Drone delivery
 
-#### Boulder Area
+#### Denver/Boulder Area
  * [Left Hand Robotics](https://lefthandrobotics.com/)
    * Outdoor robotics
    * Agriculture Robotics
@@ -313,7 +348,10 @@ This list contains what I am calling "stable start-ups," which is any company th
    * Warehouse and fulfillment robotics and automation
  * [Scythe Robotics](https://www.scytherobotics.com/)
    * Outdoor robotics
-   * Formerly Savioke
+   * _Formerly_: Savioke
+ * [Outrider](https://www.outrider.ai/)
+   * Autonomous vehicles
+   * Autonomous yard operations
    
 #### Pittsburgh Area
  * [Bossa Nova Robotics](https://www.bossanova.com/)
@@ -419,6 +457,10 @@ This list contains what I am calling "stable start-ups," which is any company th
    * Outdoor robotics
  * [Anduril](https://www.anduril.com/) (Los Angeles, CA, USA)
    * Unmanned aerial vehicles
+ * [May Mobility](https://maymobility.com/) (Ann Arbor, MI, USA)
+   * Autonomous Vehicles
+ * [Virtual Incision](https://virtualincision.com/) (Lincoln, NE, USA)
+   * Robotic surgery
 
 ### International Startups
  * [1X Technologies](https://www.1x.tech/careers#open-roles) (Moss, NOR; Sunnyvale, CA, USA)
@@ -484,6 +526,18 @@ This list contains what I am calling "stable start-ups," which is any company th
  * [Nomagic](https://nomagic.ai/) (Warsaw, POL)
    * Warehouse and fulfillment robotics and automation
    * Manipulation
+ * [TuSimple](https://www.tusimple.com/) (Shenzhen, CHN)
+   * Autonomous driving and delivery
+   * Alt location: San Diego, CA, USA
+ * [Mapillary](https://www.mapillary.com/) (Malmo, SWE)
+   * Map data for autonomous vehicles
+ * [Tonner](https://mttr.net/) (Cannes, FRA)
+   * Unmanned aerial vehicles
+   * Security robotics
+   * _Formerly_: Delta Drone group
+ * [Volocopter](http://www.volocopter.com/) (Bruschal, DEU)
+   * Unmanned aerial vehicles
+   * Human flight assistance
 
 ## Non-Profits and Government Research Labs
  * [OpenAI](https://openai.com/) (Location: San Francisco, CA, USA)
