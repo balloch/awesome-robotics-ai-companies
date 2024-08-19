@@ -2,10 +2,10 @@
 
 A List of Companies, Both Large and Small, That Are Stable and Developing Robots or Autonomous Intelligent Agents  
 
-Robotics is awesome, and people who think robotics is awesome are awesome, so I have a decided to put together a living list of important industry innovators in robotics and artificially intelligent agents. This is intended to be a starting point; there are many other cool companies out there that are just getting started! If you want a company added to this list, or think something needs to be adjusted, please a pull request (see the contributing guidelines)!
+Robotics is awesome, and people who think robotics is awesome are awesome, so I have decided to put together a living list of important industry innovators in robotics and artificially intelligent agents. This is intended to be a starting point; there are many other cool companies out there that are just getting started! If you want a company added to this list, or think something needs to be adjusted, please submit a pull request (see the contributing guidelines)!
 
 **A NOTE ABOUT ARTIFICIALLY INTELLIGENT AGENTS:** 
-A lot of companies are saying that they have "artificial intelligence" at this point, including many on this list. However, _this_ list is restricted to those companies that work on "artificially intelligent agency" or "agent intelligence;" that is, the products they produce and services the sell use artificial intelligence or machine learning to enable autonomous agents that _make their own decisions_. I make no claim that there is one correct use of the term "AI," but this is not to be confused with the umbrella term "AI" being used by businesses to include generic machine learning, data analysis, and data visionalization services that enable _human_ decision makers (to say nothing of the services that involve none of the above).  _Occasionally_ this list will include companies focused on technology that supports or directly applies to artificially intelligent agents (for example those working on dialogue, 3D mapping, or computer vision), but I generally try to discourage this.
+A lot of companies are saying that they have "artificial intelligence" at this point, including many on this list. However, _this_ list is restricted to those companies that work on "artificially intelligent agency" or "agent intelligence;" that is, the products they produce and services they sell use artificial intelligence or machine learning to enable autonomous agents that _make their own decisions_. I make no claim that there is one correct use of the term "AI," but this is not to be confused with the umbrella term "AI" being used by businesses to include generic machine learning, data analysis, and data visualization services that enable _human_ decision makers (to say nothing of the services that involve none of the above).  _Occasionally_ this list will include companies focused on technology that supports or directly applies to artificially intelligent agents (for example those working on dialogue, 3D mapping, or computer vision), but I generally try to discourage this.
 
 **(2024-04-17) A NOTE ABOUT THE RECENT EXPLOSION IN FOUNDATION MODEL AGENT COMPANIES**
 Due to the recent use of LLMs to create the underlying decision making process of intelligent agents, there has been an explosion in startups trying to use these methods for a variety of different products and services. Here I will only try to focus on companies that have a significantly deeper technological contribution than "Agent based on context and LLM Chain/Tree of thought," and specifically companies that actually have demonstrated real world application of their technology. For the moment, that means few if any of this companies make the cut, but they may in the future. 
@@ -48,7 +48,7 @@ _All locations listed are primary locations for engineering development, so the 
      * Intelligent disembodied agents
    * Azure (Locations: Seattle, USA)
      * Deep Learning/AI Research
- * [Facebook](https://about.fb.com) 
+ * [Meta](https://about.meta.com/) 
    * FAIR (Location: Menlo Park, USA; Seattle, USA; Pittsburgh, USA)
      * Deep Learning/AI Research
      * Reinforcement learning
@@ -176,7 +176,7 @@ _All locations listed are primary locations for engineering development, so the 
    * Human robot interaction
 
 ## Stable Start-ups
-This list contains what I am calling "stable start-ups," which is any company that isn't public, has a valuation at <$500M, has only or two primary locations, and/or does not have a revenue stream that could result in short term profitability. "Stable" doesn't mean they cannot fail, but this list will not be used to keep track of every single effort as that would be exhuasting. If you want something like that, may I suggest [CrunchBase](www.crunchbase.com) and [Robotics Business Review](https://www.roboticsbusinessreview.com/).
+This list contains what I am calling "stable start-ups," which is any company that isn't public, has a valuation at <$500M, has only or two primary locations, and/or does not have a revenue stream that could result in short term profitability. "Stable" doesn't mean they cannot fail, but this list will not be used to keep track of every single effort as that would be exhausting. If you want something like that, may I suggest [CrunchBase](www.crunchbase.com) and [Robotics Business Review](https://www.roboticsbusinessreview.com/).
 
 ### American Startups (by locale)
 #### Boston
@@ -194,7 +194,7 @@ This list contains what I am calling "stable start-ups," which is any company th
    * Agricultural robotics
    * Warehouse and fulfillment robotics and automation
  * [Barrett Technology](https://www.barrett.com/)
-   * Robot mechnics and design
+   * Robot mechanics and design
    * Robot control
    * Manipulation
  * [Veo Robotics](https://www.veobot.com/?utm_source=BuiltinBoston)
@@ -535,7 +535,7 @@ This list contains what I am calling "stable start-ups," which is any company th
    * Unmanned aerial vehicles
    * Security robotics
    * _Formerly_: Delta Drone group
- * [Volocopter](http://www.volocopter.com/) (Bruschal, DEU)
+ * [Volocopter](http://www.volocopter.com/) (Bruchsal, DEU)
    * Unmanned aerial vehicles
    * Human flight assistance
 
