@@ -230,7 +230,7 @@ This list contains what I am calling "stable start-ups," which is any company th
    * Retail robotics
    * Warehouse and fulfillment robotics and automation
    * Manipulation
- * [AutoX](autox.ai)
+ * [AutoX](https://autox.ai)
    * Autonomous driving
    * _Alt Location: Shenzhen, CHN_
  * [Double Robotics](https://www.doublerobotics.com/)
@@ -367,7 +367,7 @@ This list contains what I am calling "stable start-ups," which is any company th
    * 3D Mapping
  * [Tybot](https://www.tybotllc.com/)
    * Ties rebar cages
- * [Aethon, Inc.](aethon.com)
+ * [Aethon, Inc.](https://aethon.com)
    * Assistive robotics
    * Hotel robotics
    * Parent company: ST Engineering
@@ -413,7 +413,7 @@ This list contains what I am calling "stable start-ups," which is any company th
    * Formerly: Iron Ox
    
 #### New York
- * [Aescape](www.aescape.co/)
+ * [Aescape](https://www.aescape.co/)
    * Massage robotics
  * [Clarifai](https://www.clarifai.com/)
    * Video/Image recognition
@@ -505,7 +505,7 @@ This list contains what I am calling "stable start-ups," which is any company th
    * Inspection robotics
  * [Baubot](https://www.baubot.com) (Wein, AUT)
    * Construction robotics
- * [Blue Ocean Robotics](blue-ocean-robotics.com) (Odense, DNK)
+ * [Blue Ocean Robotics](https://blue-ocean-robotics.com) (Odense, DNK)
    * Telepresence robotics
    * Cleaning robots
    * Healthcare robotics
